@@ -142,3 +142,9 @@ debug). To scale it toward production workloads:
 - This is a demonstration sample showing my scraping-framework workflow
   end to end. No client, no fake data — every row in `output/` came from
   a real run on 2026-09-15.
+
+---
+
+**Author:** Moein Shahidi — [@moeinsh](https://github.com/moeinsh)
+
+© 2026 Moein Shahidi. Released under the MIT License.
